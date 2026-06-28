@@ -44,10 +44,14 @@ app.use((err, req, res, next) => {
   });
 });
 
-// Start the server
-app.listen(PORT, '0.0.0.0', () => {
-  console.log(`===============================================`);
-  console.log(` Kisaan Sahyog Backend Server running on port ${PORT}`);
-  console.log(` Env: ${process.env.NODE_ENV || 'development'}`);
-  console.log(`===============================================`);
-});
+// Start the server (only if not running on Vercel)
+if (process.env.VERCEL !== '1') {
+  app.listen(PORT, '0.0.0.0', () => {
+    console.log(`===============================================`);
+    console.log(` Kisaan Sahyog Backend Server running on port ${PORT}`);
+    console.log(` Env: ${process.env.NODE_ENV || 'development'}`);
+    console.log(`===============================================`);
+  });
+}
+
+module.exports = app;

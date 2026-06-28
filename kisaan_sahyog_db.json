@@ -160,6 +160,12 @@
       "farmer_id": "farmer_default_123",
       "started_at": "2026-06-28T05:01:37.216Z",
       "ended_at": null
+    },
+    "session_cmp0ahrk7": {
+      "session_id": "session_cmp0ahrk7",
+      "farmer_id": "farmer_default_123",
+      "started_at": "2026-06-28T09:08:57.542Z",
+      "ended_at": null
     }
   },
   "messages": [
@@ -942,6 +948,27 @@
       "structured": "{\"type\":\"crop_advisory\",\"variety\":\"HD-3086\",\"sowing_window\":\"Nov 10 - Nov 25\",\"fertiliser\":\"2 bags DAP per bigha\",\"msp_price\":\"Rs. 2275 per quintal\",\"yield_estimate\":\"15-18 quintals per bigha\",\"irrigation_advice\":\"Irrigate every 20-25 days\",\"data_sources\":[\"Fallback Static Database\"]}",
       "agents_used": "[\"crop_advisory\"]",
       "latency_ms": 1530
+    },
+    {
+      "message_id": "msg_bruvudtoq",
+      "created_at": "2026-06-28T09:08:57.543Z",
+      "session_id": "session_cmp0ahrk7",
+      "farmer_id": "farmer_default_123",
+      "role": "farmer",
+      "content": "Sowing advice",
+      "content_en": "Sowing advice"
+    },
+    {
+      "message_id": "msg_hg1i8l67q",
+      "created_at": "2026-06-28T09:08:58.938Z",
+      "session_id": "session_cmp0ahrk7",
+      "farmer_id": "farmer_default_123",
+      "role": "assistant",
+      "content": "Sorry, I encountered an issue pulling the latest crop database records. General advice for wheat: sow between Nov 10-25 using HD-3086 variety, apply 2 bags of DAP per bigha. Please check your soil moisture before watering.",
+      "content_en": "Sorry, I encountered an issue pulling the latest crop database records. General advice for wheat: sow between Nov 10-25 using HD-3086 variety, apply 2 bags of DAP per bigha. Please check your soil moisture before watering.",
+      "structured": "{\"type\":\"crop_advisory\",\"variety\":\"HD-3086\",\"sowing_window\":\"Nov 10 - Nov 25\",\"fertiliser\":\"2 bags DAP per bigha\",\"msp_price\":\"Rs. 2275 per quintal\",\"yield_estimate\":\"15-18 quintals per bigha\",\"irrigation_advice\":\"Irrigate every 20-25 days\",\"data_sources\":[\"Fallback Static Database\"]}",
+      "agents_used": "[\"crop_advisory\"]",
+      "latency_ms": 1396
     }
   ],
   "weather_alerts": [

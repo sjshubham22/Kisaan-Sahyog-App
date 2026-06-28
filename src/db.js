@@ -4,7 +4,11 @@ const dotenv = require('dotenv');
 
 dotenv.config();
 
-const dbPath = path.resolve(__dirname, '..', process.env.DATABASE_FILE || 'kisaan_sahyog_db.json');
+const isVercel = process.env.VERCEL === '1';
+const defaultDbName = process.env.DATABASE_FILE || 'kisaan_sahyog_db.json';
+const dbPath = isVercel
+  ? path.join('/tmp', defaultDbName)
+  : path.resolve(__dirname, '..', defaultDbName);
 
 // Memory store structure
 let store = {
@@ -24,8 +28,16 @@ function initDb() {
       store = JSON.parse(fileData);
       console.log('Database loaded successfully from file.');
     } else {
-      console.log('Database file not found. Creating a new one...');
-      saveToDisk();
+      const rootDbPath = path.resolve(__dirname, '..', 'kisaan_sahyog_db.json');
+      if (isVercel && fs.existsSync(rootDbPath)) {
+        console.log(`Loading initial database seed from project root: ${rootDbPath}`);
+        const fileData = fs.readFileSync(rootDbPath, 'utf8');
+        store = JSON.parse(fileData);
+        saveToDisk();
+      } else {
+        console.log('Database file not found. Creating a new one...');
+        saveToDisk();
+      }
     }
   } catch (error) {
     console.error('Error loading database file. Initializing empty database.', error);
