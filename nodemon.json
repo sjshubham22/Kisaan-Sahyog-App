@@ -1,0 +1,6 @@
+{
+  "ignore": [
+    "kisaan_sahyog_db.json",
+    "client/*"
+  ]
+}

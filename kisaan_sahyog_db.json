@@ -1,0 +1,1000 @@
+{
+  "farmers": {
+    "farmer_default_123": {
+      "farmer_id": "farmer_default_123",
+      "name": "Ramesh Yadav",
+      "phone": "+919876543210",
+      "district": "Varanasi",
+      "state": "Uttar Pradesh",
+      "gps_lat": 25.3176,
+      "gps_lon": 82.9739,
+      "primary_crop": "Wheat",
+      "land_bigha": 3.5,
+      "irrigation": "borewell",
+      "language": "en",
+      "created_at": "2026-06-27T14:45:02.707Z",
+      "last_active": "2026-06-27T15:45:40.252Z"
+    }
+  },
+  "chat_sessions": {
+    "test_session_999": {
+      "session_id": "test_session_999",
+      "farmer_id": "farmer_default_123",
+      "started_at": "2026-06-28T01:27:30.498Z",
+      "ended_at": null
+    },
+    "session_639yy2ek4": {
+      "session_id": "session_639yy2ek4",
+      "farmer_id": "farmer_default_123",
+      "started_at": "2026-06-27T15:40:00.530Z",
+      "ended_at": null
+    },
+    "session_amw45bwnf": {
+      "session_id": "session_amw45bwnf",
+      "farmer_id": "farmer_default_123",
+      "started_at": "2026-06-27T15:41:12.410Z",
+      "ended_at": null
+    },
+    "session_7ifyllpd0": {
+      "session_id": "session_7ifyllpd0",
+      "farmer_id": "farmer_default_123",
+      "started_at": "2026-06-27T15:42:22.636Z",
+      "ended_at": null
+    },
+    "session_ysk4nk0vb": {
+      "session_id": "session_ysk4nk0vb",
+      "farmer_id": "farmer_default_123",
+      "started_at": "2026-06-27T15:44:39.656Z",
+      "ended_at": null
+    },
+    "session_pf15xhg01": {
+      "session_id": "session_pf15xhg01",
+      "farmer_id": "farmer_default_123",
+      "started_at": "2026-06-27T15:45:43.564Z",
+      "ended_at": null
+    },
+    "session_p9tty52hs": {
+      "session_id": "session_p9tty52hs",
+      "farmer_id": "farmer_default_123",
+      "started_at": "2026-06-27T15:49:37.299Z",
+      "ended_at": null
+    },
+    "session_zdwr7jcqw": {
+      "session_id": "session_zdwr7jcqw",
+      "farmer_id": "farmer_default_123",
+      "started_at": "2026-06-27T15:49:48.976Z",
+      "ended_at": null
+    },
+    "session_ovrup6c1c": {
+      "session_id": "session_ovrup6c1c",
+      "farmer_id": "farmer_default_123",
+      "started_at": "2026-06-27T15:51:10.609Z",
+      "ended_at": null
+    },
+    "session_k2mytgaxm": {
+      "session_id": "session_k2mytgaxm",
+      "farmer_id": "farmer_default_123",
+      "started_at": "2026-06-27T15:52:11.043Z",
+      "ended_at": null
+    },
+    "session_2ylrtzedj": {
+      "session_id": "session_2ylrtzedj",
+      "farmer_id": "farmer_default_123",
+      "started_at": "2026-06-27T15:55:08.298Z",
+      "ended_at": null
+    },
+    "session_j4mbp9r16": {
+      "session_id": "session_j4mbp9r16",
+      "farmer_id": "farmer_default_123",
+      "started_at": "2026-06-28T01:24:32.405Z",
+      "ended_at": null
+    },
+    "session_krs6gzwjw": {
+      "session_id": "session_krs6gzwjw",
+      "farmer_id": "farmer_default_123",
+      "started_at": "2026-06-28T01:29:39.245Z",
+      "ended_at": null
+    },
+    "session_igrx26v5b": {
+      "session_id": "session_igrx26v5b",
+      "farmer_id": "farmer_default_123",
+      "started_at": "2026-06-28T01:34:42.985Z",
+      "ended_at": null
+    },
+    "session_test_123": {
+      "session_id": "session_test_123",
+      "farmer_id": "farmer_default_123",
+      "started_at": "2026-06-28T01:41:17.659Z",
+      "ended_at": null
+    },
+    "session_ny4idttvx": {
+      "session_id": "session_ny4idttvx",
+      "farmer_id": "farmer_default_123",
+      "started_at": "2026-06-28T01:43:05.078Z",
+      "ended_at": null
+    },
+    "session_3ec7x0szh": {
+      "session_id": "session_3ec7x0szh",
+      "farmer_id": "farmer_default_123",
+      "started_at": "2026-06-28T01:45:16.545Z",
+      "ended_at": null
+    },
+    "session_u2mmusa6l": {
+      "session_id": "session_u2mmusa6l",
+      "farmer_id": "farmer_default_123",
+      "started_at": "2026-06-28T01:47:26.452Z",
+      "ended_at": null
+    },
+    "session_4tie8yxhw": {
+      "session_id": "session_4tie8yxhw",
+      "farmer_id": "farmer_default_123",
+      "started_at": "2026-06-28T04:51:29.616Z",
+      "ended_at": null
+    },
+    "session_h38usmrao": {
+      "session_id": "session_h38usmrao",
+      "farmer_id": "farmer_default_123",
+      "started_at": "2026-06-28T04:54:35.669Z",
+      "ended_at": null
+    },
+    "test_session_123": {
+      "session_id": "test_session_123",
+      "farmer_id": "farmer_default_123",
+      "started_at": "2026-06-28T04:59:00.320Z",
+      "ended_at": null
+    },
+    "session_8phpsvayp": {
+      "session_id": "session_8phpsvayp",
+      "farmer_id": "farmer_default_123",
+      "started_at": "2026-06-28T04:57:29.536Z",
+      "ended_at": null
+    },
+    "session_mr09ypwsm": {
+      "session_id": "session_mr09ypwsm",
+      "farmer_id": "farmer_default_123",
+      "started_at": "2026-06-28T05:00:27.375Z",
+      "ended_at": null
+    },
+    "session_ow39q6z87": {
+      "session_id": "session_ow39q6z87",
+      "farmer_id": "farmer_default_123",
+      "started_at": "2026-06-28T05:01:37.216Z",
+      "ended_at": null
+    }
+  },
+  "messages": [
+    {
+      "message_id": "msg_l1zaguqxk",
+      "created_at": "2026-06-27T14:45:22.348Z",
+      "session_id": "test_session_999",
+      "farmer_id": "farmer_default_123",
+      "role": "farmer",
+      "content": "When should I sow wheat?",
+      "content_en": "When should I sow wheat?"
+    },
+    {
+      "message_id": "msg_73vyxur6k",
+      "created_at": "2026-06-27T14:45:36.173Z",
+      "session_id": "test_session_999",
+      "farmer_id": "farmer_default_123",
+      "role": "assistant",
+      "content": "Hello Ramesh Yadav ji, it's good you're planning your wheat sowing. Looking at the data for your area in Varanasi, the soil moisture is currently a bit low, and water is evaporating quickly. However, we are expecting a good amount of rain, about 94 mm, over the next seven days. This rain will be very beneficial for your fields and will create good moisture conditions for sowing.\n\nIt's best to wait for this rainfall to happen. Once the rains have finished and the soil is workable, you can proceed with preparing your field for sowing. For your region, DBW-187 (Karan Vandana) is an excellent variety that gives good yields.\n\nSo, this week, please monitor the rain. After the heavy rainfall, ensure your field is properly leveled and ready for sowing.",
+      "content_en": "Hello Ramesh Yadav ji, it's good you're planning your wheat sowing. Looking at the data for your area in Varanasi, the soil moisture is currently a bit low, and water is evaporating quickly. However, we are expecting a good amount of rain, about 94 mm, over the next seven days. This rain will be very beneficial for your fields and will create good moisture conditions for sowing.\n\nIt's best to wait for this rainfall to happen. Once the rains have finished and the soil is workable, you can proceed with preparing your field for sowing. For your region, DBW-187 (Karan Vandana) is an excellent variety that gives good yields.\n\nSo, this week, please monitor the rain. After the heavy rainfall, ensure your field is properly leveled and ready for sowing.",
+      "structured": "{\"variety\":\"DBW-187 (Karan Vandana)\",\"sowing_window\":\"Late November to early December, after heavy rainfall\",\"fertiliser\":\"1 bag DAP at sowing, followed by 1 bag Urea in two splits per bigha\",\"msp_price\":\"Rs. 2275 per quintal\",\"yield_estimate\":\"18 quintals per bigha (Guidance)\",\"irrigation_advice\":\"3-4 irrigations after the heavy expected rainfall, starting at CRI stage (around 21 days after sowing) and subsequent ones based on crop need\",\"type\":\"crop_advisory\",\"data_sources\":[\"ICAR Varieties\",\"MSP 2024-25\",\"Open-Meteo\"]}",
+      "agents_used": "[\"crop_advisory\"]",
+      "latency_ms": 13827
+    },
+    {
+      "message_id": "msg_hsklqdrv5",
+      "created_at": "2026-06-27T14:47:02.135Z",
+      "session_id": "test_session_999",
+      "farmer_id": "farmer_default_123",
+      "role": "farmer",
+      "content": "Who is the prime minister of India?",
+      "content_en": "Who is the prime minister of India?"
+    },
+    {
+      "message_id": "msg_em6cpdzyy",
+      "created_at": "2026-06-27T14:47:04.234Z",
+      "session_id": "test_session_999",
+      "farmer_id": "farmer_default_123",
+      "role": "assistant",
+      "content": "I can only assist you with farming, crop advisory, and weather-related queries.",
+      "content_en": "I can only assist you with farming, crop advisory, and weather-related queries.",
+      "structured": "{\"type\":\"guardrail_rejection\"}",
+      "agents_used": "[\"orchestrator\"]",
+      "latency_ms": 2099
+    },
+    {
+      "message_id": "msg_9hi8fknwa",
+      "created_at": "2026-06-27T15:39:19.415Z",
+      "session_id": "session_639yy2ek4",
+      "farmer_id": "farmer_default_123",
+      "role": "farmer",
+      "content": "Weather forecast",
+      "content_en": "Weather forecast"
+    },
+    {
+      "message_id": "msg_x6og94hjy",
+      "created_at": "2026-06-27T15:39:20.317Z",
+      "session_id": "session_639yy2ek4",
+      "farmer_id": "farmer_default_123",
+      "role": "farmer",
+      "content": "Weather forecast",
+      "content_en": "Weather forecast"
+    },
+    {
+      "message_id": "msg_or6hxglyk",
+      "created_at": "2026-06-27T15:39:24.258Z",
+      "session_id": "session_639yy2ek4",
+      "farmer_id": "farmer_default_123",
+      "role": "farmer",
+      "content": "Mandi prices",
+      "content_en": "Mandi prices"
+    },
+    {
+      "message_id": "msg_xzdmg465l",
+      "created_at": "2026-06-27T15:39:25.869Z",
+      "session_id": "session_639yy2ek4",
+      "farmer_id": "farmer_default_123",
+      "role": "farmer",
+      "content": "Sowing advice",
+      "content_en": "Sowing advice"
+    },
+    {
+      "message_id": "msg_tvxpx0cup",
+      "created_at": "2026-06-27T15:39:27.065Z",
+      "session_id": "session_639yy2ek4",
+      "farmer_id": "farmer_default_123",
+      "role": "farmer",
+      "content": "Sowing advice",
+      "content_en": "Sowing advice"
+    },
+    {
+      "message_id": "msg_oonr8ylf7",
+      "created_at": "2026-06-27T15:39:59.537Z",
+      "session_id": "session_639yy2ek4",
+      "farmer_id": "farmer_default_123",
+      "role": "farmer",
+      "content": "Sowing advice",
+      "content_en": "Sowing advice"
+    },
+    {
+      "message_id": "msg_7ai4pk9n0",
+      "created_at": "2026-06-27T15:40:00.531Z",
+      "session_id": "session_639yy2ek4",
+      "farmer_id": "farmer_default_123",
+      "role": "farmer",
+      "content": "Sowing advice",
+      "content_en": "Sowing advice"
+    },
+    {
+      "message_id": "msg_f47tthk76",
+      "created_at": "2026-06-27T15:41:11.236Z",
+      "session_id": "session_amw45bwnf",
+      "farmer_id": "farmer_default_123",
+      "role": "farmer",
+      "content": "Sowing advice",
+      "content_en": "Sowing advice"
+    },
+    {
+      "message_id": "msg_qlnu270c7",
+      "created_at": "2026-06-27T15:41:12.411Z",
+      "session_id": "session_amw45bwnf",
+      "farmer_id": "farmer_default_123",
+      "role": "farmer",
+      "content": "Sowing advice",
+      "content_en": "Sowing advice"
+    },
+    {
+      "message_id": "msg_io2cm5r8z",
+      "created_at": "2026-06-27T15:42:18.292Z",
+      "session_id": "session_7ifyllpd0",
+      "farmer_id": "farmer_default_123",
+      "role": "farmer",
+      "content": "Sowing advice",
+      "content_en": "Sowing advice"
+    },
+    {
+      "message_id": "msg_smifp5dqe",
+      "created_at": "2026-06-27T15:42:19.260Z",
+      "session_id": "session_7ifyllpd0",
+      "farmer_id": "farmer_default_123",
+      "role": "farmer",
+      "content": "Sowing advice",
+      "content_en": "Sowing advice"
+    },
+    {
+      "message_id": "msg_3mhbb8whu",
+      "created_at": "2026-06-27T15:42:21.393Z",
+      "session_id": "session_7ifyllpd0",
+      "farmer_id": "farmer_default_123",
+      "role": "farmer",
+      "content": "Weather forecast",
+      "content_en": "Weather forecast"
+    },
+    {
+      "message_id": "msg_oxtdz5hb9",
+      "created_at": "2026-06-27T15:42:22.637Z",
+      "session_id": "session_7ifyllpd0",
+      "farmer_id": "farmer_default_123",
+      "role": "farmer",
+      "content": "Mandi prices",
+      "content_en": "Mandi prices"
+    },
+    {
+      "message_id": "msg_hy9yrwaeq",
+      "created_at": "2026-06-27T15:44:32.410Z",
+      "session_id": "session_ysk4nk0vb",
+      "farmer_id": "farmer_default_123",
+      "role": "farmer",
+      "content": "Sowing advice",
+      "content_en": "Sowing advice"
+    },
+    {
+      "message_id": "msg_erxi1maj8",
+      "created_at": "2026-06-27T15:44:33.785Z",
+      "session_id": "session_ysk4nk0vb",
+      "farmer_id": "farmer_default_123",
+      "role": "farmer",
+      "content": "Sowing advice",
+      "content_en": "Sowing advice"
+    },
+    {
+      "message_id": "msg_7nwzqhjyq",
+      "created_at": "2026-06-27T15:44:35.501Z",
+      "session_id": "session_ysk4nk0vb",
+      "farmer_id": "farmer_default_123",
+      "role": "farmer",
+      "content": "Weather forecast",
+      "content_en": "Weather forecast"
+    },
+    {
+      "message_id": "msg_2ivjw0pci",
+      "created_at": "2026-06-27T15:44:37.098Z",
+      "session_id": "session_ysk4nk0vb",
+      "farmer_id": "farmer_default_123",
+      "role": "farmer",
+      "content": "Weather forecast",
+      "content_en": "Weather forecast"
+    },
+    {
+      "message_id": "msg_la0let3ye",
+      "created_at": "2026-06-27T15:44:38.489Z",
+      "session_id": "session_ysk4nk0vb",
+      "farmer_id": "farmer_default_123",
+      "role": "farmer",
+      "content": "Mandi prices",
+      "content_en": "Mandi prices"
+    },
+    {
+      "message_id": "msg_ve3z7lvpr",
+      "created_at": "2026-06-27T15:44:39.657Z",
+      "session_id": "session_ysk4nk0vb",
+      "farmer_id": "farmer_default_123",
+      "role": "farmer",
+      "content": "Mandi prices",
+      "content_en": "Mandi prices"
+    },
+    {
+      "message_id": "msg_o99mxddgs",
+      "created_at": "2026-06-27T15:45:42.289Z",
+      "session_id": "session_pf15xhg01",
+      "farmer_id": "farmer_default_123",
+      "role": "farmer",
+      "content": "Weather forecast",
+      "content_en": "Weather forecast"
+    },
+    {
+      "message_id": "msg_k4n4u1ukk",
+      "created_at": "2026-06-27T15:45:43.565Z",
+      "session_id": "session_pf15xhg01",
+      "farmer_id": "farmer_default_123",
+      "role": "farmer",
+      "content": "Weather forecast",
+      "content_en": "Weather forecast"
+    },
+    {
+      "message_id": "msg_kulqhnl13",
+      "created_at": "2026-06-27T15:49:36.140Z",
+      "session_id": "session_p9tty52hs",
+      "farmer_id": "farmer_default_123",
+      "role": "farmer",
+      "content": "Weather forecast",
+      "content_en": "Weather forecast"
+    },
+    {
+      "message_id": "msg_lowif0bnr",
+      "created_at": "2026-06-27T15:49:37.300Z",
+      "session_id": "session_p9tty52hs",
+      "farmer_id": "farmer_default_123",
+      "role": "farmer",
+      "content": "Weather forecast",
+      "content_en": "Weather forecast"
+    },
+    {
+      "message_id": "msg_3599pegw2",
+      "created_at": "2026-06-27T15:49:47.822Z",
+      "session_id": "session_zdwr7jcqw",
+      "farmer_id": "farmer_default_123",
+      "role": "farmer",
+      "content": "Weather forecast",
+      "content_en": "Weather forecast"
+    },
+    {
+      "message_id": "msg_g9mizzjpl",
+      "created_at": "2026-06-27T15:49:48.978Z",
+      "session_id": "session_zdwr7jcqw",
+      "farmer_id": "farmer_default_123",
+      "role": "farmer",
+      "content": "Weather forecast",
+      "content_en": "Weather forecast"
+    },
+    {
+      "message_id": "msg_pgjki7eww",
+      "created_at": "2026-06-27T15:51:09.386Z",
+      "session_id": "session_ovrup6c1c",
+      "farmer_id": "farmer_default_123",
+      "role": "farmer",
+      "content": "Weather forecast",
+      "content_en": "Weather forecast"
+    },
+    {
+      "message_id": "msg_uuqkpmofh",
+      "created_at": "2026-06-27T15:51:10.610Z",
+      "session_id": "session_ovrup6c1c",
+      "farmer_id": "farmer_default_123",
+      "role": "farmer",
+      "content": "Weather forecast",
+      "content_en": "Weather forecast"
+    },
+    {
+      "message_id": "msg_oddd7e881",
+      "created_at": "2026-06-27T15:52:09.875Z",
+      "session_id": "session_k2mytgaxm",
+      "farmer_id": "farmer_default_123",
+      "role": "farmer",
+      "content": "Mandi prices",
+      "content_en": "Mandi prices"
+    },
+    {
+      "message_id": "msg_kacdwh3jn",
+      "created_at": "2026-06-27T15:52:11.044Z",
+      "session_id": "session_k2mytgaxm",
+      "farmer_id": "farmer_default_123",
+      "role": "farmer",
+      "content": "Mandi prices",
+      "content_en": "Mandi prices"
+    },
+    {
+      "message_id": "msg_t932wlfdg",
+      "created_at": "2026-06-27T15:55:07.062Z",
+      "session_id": "session_2ylrtzedj",
+      "farmer_id": "farmer_default_123",
+      "role": "farmer",
+      "content": "Weather forecast",
+      "content_en": "Weather forecast"
+    },
+    {
+      "message_id": "msg_oxoa8r5tg",
+      "created_at": "2026-06-27T15:55:08.299Z",
+      "session_id": "session_2ylrtzedj",
+      "farmer_id": "farmer_default_123",
+      "role": "farmer",
+      "content": "Weather forecast",
+      "content_en": "Weather forecast"
+    },
+    {
+      "message_id": "msg_hk43zgpp0",
+      "created_at": "2026-06-28T01:22:04.638Z",
+      "session_id": "session_j4mbp9r16",
+      "farmer_id": "farmer_default_123",
+      "role": "farmer",
+      "content": "Sowing advice",
+      "content_en": "Sowing advice"
+    },
+    {
+      "message_id": "msg_n23m0rt0c",
+      "created_at": "2026-06-28T01:22:05.445Z",
+      "session_id": "session_j4mbp9r16",
+      "farmer_id": "farmer_default_123",
+      "role": "farmer",
+      "content": "Sowing advice",
+      "content_en": "Sowing advice"
+    },
+    {
+      "message_id": "msg_t1upmp27q",
+      "created_at": "2026-06-28T01:22:42.086Z",
+      "session_id": "session_j4mbp9r16",
+      "farmer_id": "farmer_default_123",
+      "role": "farmer",
+      "content": "Weather forecast",
+      "content_en": "Weather forecast"
+    },
+    {
+      "message_id": "msg_z3d5c12od",
+      "created_at": "2026-06-28T01:22:42.934Z",
+      "session_id": "session_j4mbp9r16",
+      "farmer_id": "farmer_default_123",
+      "role": "farmer",
+      "content": "Weather forecast",
+      "content_en": "Weather forecast"
+    },
+    {
+      "message_id": "msg_oxq8v7dvf",
+      "created_at": "2026-06-28T01:23:50.414Z",
+      "session_id": "session_j4mbp9r16",
+      "farmer_id": "farmer_default_123",
+      "role": "farmer",
+      "content": "Weather forecast",
+      "content_en": "Weather forecast"
+    },
+    {
+      "message_id": "msg_vww20hq0z",
+      "created_at": "2026-06-28T01:23:51.235Z",
+      "session_id": "session_j4mbp9r16",
+      "farmer_id": "farmer_default_123",
+      "role": "farmer",
+      "content": "Weather forecast",
+      "content_en": "Weather forecast"
+    },
+    {
+      "message_id": "msg_xct4487mw",
+      "created_at": "2026-06-28T01:24:31.593Z",
+      "session_id": "session_j4mbp9r16",
+      "farmer_id": "farmer_default_123",
+      "role": "farmer",
+      "content": "Sowing advice",
+      "content_en": "Sowing advice"
+    },
+    {
+      "message_id": "msg_812mwhrbg",
+      "created_at": "2026-06-28T01:24:32.406Z",
+      "session_id": "session_j4mbp9r16",
+      "farmer_id": "farmer_default_123",
+      "role": "farmer",
+      "content": "Sowing advice",
+      "content_en": "Sowing advice"
+    },
+    {
+      "message_id": "msg_wn5qu8jjj",
+      "created_at": "2026-06-28T01:26:20.212Z",
+      "session_id": "test_session_999",
+      "farmer_id": "farmer_default_123",
+      "role": "farmer",
+      "content": "When should I sow wheat?",
+      "content_en": "When should I sow wheat?"
+    },
+    {
+      "message_id": "msg_zwyiteqqx",
+      "created_at": "2026-06-28T01:27:30.499Z",
+      "session_id": "test_session_999",
+      "farmer_id": "farmer_default_123",
+      "role": "farmer",
+      "content": "When should I sow wheat?",
+      "content_en": "When should I sow wheat?"
+    },
+    {
+      "message_id": "msg_i9o7adpzn",
+      "created_at": "2026-06-28T01:27:32.306Z",
+      "session_id": "test_session_999",
+      "farmer_id": "farmer_default_123",
+      "role": "assistant",
+      "content": "Sorry, I encountered an issue pulling the latest crop database records. General advice for wheat: sow between Nov 10-25 using HD-3086 variety, apply 2 bags of DAP per bigha. Please check your soil moisture before watering.",
+      "content_en": "Sorry, I encountered an issue pulling the latest crop database records. General advice for wheat: sow between Nov 10-25 using HD-3086 variety, apply 2 bags of DAP per bigha. Please check your soil moisture before watering.",
+      "structured": "{\"type\":\"crop_advisory\",\"variety\":\"HD-3086\",\"sowing_window\":\"Nov 10 - Nov 25\",\"fertiliser\":\"2 bags DAP per bigha\",\"msp_price\":\"Rs. 2275 per quintal\",\"yield_estimate\":\"15-18 quintals per bigha\",\"irrigation_advice\":\"Irrigate every 20-25 days\",\"data_sources\":[\"Fallback Static Database\"]}",
+      "agents_used": "[\"crop_advisory\"]",
+      "latency_ms": 1808
+    },
+    {
+      "message_id": "msg_cyvnspohk",
+      "created_at": "2026-06-28T01:29:38.448Z",
+      "session_id": "session_krs6gzwjw",
+      "farmer_id": "farmer_default_123",
+      "role": "farmer",
+      "content": "Weather forecast",
+      "content_en": "Weather forecast"
+    },
+    {
+      "message_id": "msg_ktl3tloju",
+      "created_at": "2026-06-28T01:29:39.246Z",
+      "session_id": "session_krs6gzwjw",
+      "farmer_id": "farmer_default_123",
+      "role": "farmer",
+      "content": "Weather forecast",
+      "content_en": "Weather forecast"
+    },
+    {
+      "message_id": "msg_l9w5m3qzj",
+      "created_at": "2026-06-28T01:34:42.151Z",
+      "session_id": "session_igrx26v5b",
+      "farmer_id": "farmer_default_123",
+      "role": "farmer",
+      "content": "Weather forecast",
+      "content_en": "Weather forecast"
+    },
+    {
+      "message_id": "msg_xcw54rudb",
+      "created_at": "2026-06-28T01:34:42.986Z",
+      "session_id": "session_igrx26v5b",
+      "farmer_id": "farmer_default_123",
+      "role": "farmer",
+      "content": "Weather forecast",
+      "content_en": "Weather forecast"
+    },
+    {
+      "message_id": "msg_t4t9r7a45",
+      "created_at": "2026-06-28T01:40:14.782Z",
+      "session_id": "session_test_123",
+      "farmer_id": "farmer_default_123",
+      "role": "farmer",
+      "content": "hello",
+      "content_en": "hello"
+    },
+    {
+      "message_id": "msg_pdou2hk78",
+      "created_at": "2026-06-28T01:41:02.361Z",
+      "session_id": "session_test_123",
+      "farmer_id": "farmer_default_123",
+      "role": "farmer",
+      "content": "hello",
+      "content_en": "hello"
+    },
+    {
+      "message_id": "msg_eeboek3zl",
+      "created_at": "2026-06-28T01:41:04.113Z",
+      "session_id": "session_test_123",
+      "farmer_id": "farmer_default_123",
+      "role": "assistant",
+      "content": "I can only assist you with farming, crop advisory, and weather-related queries.",
+      "content_en": "I can only assist you with farming, crop advisory, and weather-related queries.",
+      "structured": "{\"type\":\"guardrail_rejection\"}",
+      "agents_used": "[\"orchestrator\"]",
+      "latency_ms": 100
+    },
+    {
+      "message_id": "msg_xyc8p4trv",
+      "created_at": "2026-06-28T01:41:17.661Z",
+      "session_id": "session_test_123",
+      "farmer_id": "farmer_default_123",
+      "role": "farmer",
+      "content": "When should I sow wheat?",
+      "content_en": "When should I sow wheat?"
+    },
+    {
+      "message_id": "msg_ypob9ilaw",
+      "created_at": "2026-06-28T01:41:22.641Z",
+      "session_id": "session_test_123",
+      "farmer_id": "farmer_default_123",
+      "role": "assistant",
+      "content": "Hello Ramesh Ji, for wheat sowing in Varanasi, Uttar Pradesh, the ideal window is between the second week of November and the first week of December. Given the current soil moisture and forecast, it's a good time to prepare your fields. For your 3.5 bigha land, we recommend the HD-3086 variety due to its heat tolerance and good yield potential. You'll need about 2 bags of Urea and 1 bag of DAP per bigha at sowing, followed by 1 bag of Urea at first irrigation. After sowing, irrigate as needed, especially during tillering and grain formation stages. Aim for timely irrigation, about every 20-30 days depending on soil and weather. You can expect around 18-20 quintals per bigha. The MSP is Rs. 2275 per quintal. You should start preparing your fields for sowing this week.",
+      "content_en": "Hello Ramesh Ji, for wheat sowing in Varanasi, Uttar Pradesh, the ideal window is between the second week of November and the first week of December. Given the current soil moisture and forecast, it's a good time to prepare your fields. For your 3.5 bigha land, we recommend the HD-3086 variety due to its heat tolerance and good yield potential. You'll need about 2 bags of Urea and 1 bag of DAP per bigha at sowing, followed by 1 bag of Urea at first irrigation. After sowing, irrigate as needed, especially during tillering and grain formation stages. Aim for timely irrigation, about every 20-30 days depending on soil and weather. You can expect around 18-20 quintals per bigha. The MSP is Rs. 2275 per quintal. You should start preparing your fields for sowing this week.",
+      "structured": "{\"variety\":\"HD-3086 (Pusa Gautami)\",\"sowing_window\":\"Mid-November to Early December\",\"fertiliser\":\"2 bags Urea + 1 bag DAP per bigha at sowing, followed by 1 bag Urea per bigha at first irrigation\",\"msp_price\":\"Rs. 2275 per quintal\",\"yield_estimate\":\"18-20 quintals per bigha\",\"irrigation_advice\":\"Irrigate every 20-30 days, especially during tillering and grain formation. Ensure good soil moisture.\",\"type\":\"crop_advisory\",\"data_sources\":[\"ICAR Varieties\",\"MSP 2024-25\",\"Open-Meteo\"]}",
+      "agents_used": "[\"crop_advisory\"]",
+      "latency_ms": 100
+    },
+    {
+      "message_id": "msg_44jmfmctd",
+      "created_at": "2026-06-28T01:43:05.079Z",
+      "session_id": "session_ny4idttvx",
+      "farmer_id": "farmer_default_123",
+      "role": "farmer",
+      "content": "When should I sow wheat?",
+      "content_en": "When should I sow wheat?"
+    },
+    {
+      "message_id": "msg_oxuj282lb",
+      "created_at": "2026-06-28T01:43:10.584Z",
+      "session_id": "session_ny4idttvx",
+      "farmer_id": "farmer_default_123",
+      "role": "assistant",
+      "content": "Sorry, I encountered an issue pulling the latest crop database records. General advice for wheat: sow between Nov 10-25 using HD-3086 variety, apply 2 bags of DAP per bigha. Please check your soil moisture before watering.",
+      "content_en": "Sorry, I encountered an issue pulling the latest crop database records. General advice for wheat: sow between Nov 10-25 using HD-3086 variety, apply 2 bags of DAP per bigha. Please check your soil moisture before watering.",
+      "structured": "{\"type\":\"crop_advisory\",\"variety\":\"HD-3086\",\"sowing_window\":\"Nov 10 - Nov 25\",\"fertiliser\":\"2 bags DAP per bigha\",\"msp_price\":\"Rs. 2275 per quintal\",\"yield_estimate\":\"15-18 quintals per bigha\",\"irrigation_advice\":\"Irrigate every 20-25 days\",\"data_sources\":[\"Fallback Static Database\"]}",
+      "agents_used": "[\"crop_advisory\"]",
+      "latency_ms": 5506
+    },
+    {
+      "message_id": "msg_aw8d3bps6",
+      "created_at": "2026-06-28T01:44:11.140Z",
+      "session_id": "session_3ec7x0szh",
+      "farmer_id": "farmer_default_123",
+      "role": "farmer",
+      "content": "Sowing advice",
+      "content_en": "Sowing advice"
+    },
+    {
+      "message_id": "msg_qpvj2q51e",
+      "created_at": "2026-06-28T01:44:19.182Z",
+      "session_id": "session_3ec7x0szh",
+      "farmer_id": "farmer_default_123",
+      "role": "assistant",
+      "content": "Hello Ramesh ji, for wheat sowing in Varanasi, the best time is approaching. Considering the soil moisture and the forecast of good rain, you should prepare your fields. The variety DBW-187 (Karan Vandana) is a good choice as it matures faster and is resistant to rust. You should aim to sow it soon to take advantage of the current weather. For your 3.5 bigha land, follow the recommended fertilizer and irrigation schedule. You can expect a good yield this season. Be ready to start sowing this week.",
+      "content_en": "Hello Ramesh ji, for wheat sowing in Varanasi, the best time is approaching. Considering the soil moisture and the forecast of good rain, you should prepare your fields. The variety DBW-187 (Karan Vandana) is a good choice as it matures faster and is resistant to rust. You should aim to sow it soon to take advantage of the current weather. For your 3.5 bigha land, follow the recommended fertilizer and irrigation schedule. You can expect a good yield this season. Be ready to start sowing this week.",
+      "structured": "{\"variety\":\"DBW-187 (Karan Vandana)\",\"sowing_window\":\"10-25 November\",\"fertiliser\":\"2 bags Urea, 2 bags DAP, 1 bag MOP per bigha at sowing. Top dress 1 bag Urea around 30-35 days after sowing.\",\"msp_price\":\"Rs. 2275 per quintal\",\"yield_estimate\":\"18-22 quintals per bigha\",\"irrigation_advice\":\"Irrigate at crown root initiation (20-25 days after sowing) and flowering (40-45 days after sowing). If soil moisture drops below 0.20 m³/m³ during dry spells, irrigate. Given the rain forecast, initial irrigation might not be needed immediately after sowing.\",\"type\":\"crop_advisory\",\"data_sources\":[\"ICAR Varieties\",\"MSP 2024-25\",\"Open-Meteo\"]}",
+      "agents_used": "[\"crop_advisory\"]",
+      "latency_ms": 8043
+    },
+    {
+      "message_id": "msg_gs654hv99",
+      "created_at": "2026-06-28T01:45:16.546Z",
+      "session_id": "session_3ec7x0szh",
+      "farmer_id": "farmer_default_123",
+      "role": "farmer",
+      "content": "Will it rain this week?",
+      "content_en": "Will it rain this week?"
+    },
+    {
+      "message_id": "msg_uc2e2ue3j",
+      "created_at": "2026-06-28T01:45:21.545Z",
+      "session_id": "session_3ec7x0szh",
+      "farmer_id": "farmer_default_123",
+      "role": "assistant",
+      "content": "Hello farmer! This week in Varanasi, expect scattered rainfall starting from Saturday, with heavier showers likely from Wednesday to Friday. Please avoid field work like spraying or harvesting on Wednesday, Thursday, and Friday due to the rain. Sunday and Monday are good days for outdoor activities. With the heavy rains predicted from Wednesday onwards, hold off on irrigation until the weekend. Be aware of the extreme heatwave alert until Tuesday; stay hydrated and protect yourself and your livestock during peak heat hours.",
+      "content_en": "Hello farmer! This week in Varanasi, expect scattered rainfall starting from Saturday, with heavier showers likely from Wednesday to Friday. Please avoid field work like spraying or harvesting on Wednesday, Thursday, and Friday due to the rain. Sunday and Monday are good days for outdoor activities. With the heavy rains predicted from Wednesday onwards, hold off on irrigation until the weekend. Be aware of the extreme heatwave alert until Tuesday; stay hydrated and protect yourself and your livestock during peak heat hours.",
+      "structured": "{\"forecast_days\":7,\"key_risk\":\"Extreme heatwave until Tuesday, followed by heavy rainfall from Wednesday.\",\"recommended_action\":\"Protect from heat until Tuesday and avoid field work from Wednesday to Friday due to rain.\",\"type\":\"weather_summary\",\"data_sources\":[\"Open-Meteo Forecast\",\"NDMA Sachet\"]}",
+      "agents_used": "[\"weather\"]",
+      "latency_ms": 5000
+    },
+    {
+      "message_id": "msg_62nacvfb6",
+      "created_at": "2026-06-28T01:47:26.453Z",
+      "session_id": "session_u2mmusa6l",
+      "farmer_id": "farmer_default_123",
+      "role": "farmer",
+      "content": "Sowing advice",
+      "content_en": "Sowing advice"
+    },
+    {
+      "message_id": "msg_8pxn21gik",
+      "created_at": "2026-06-28T01:47:30.669Z",
+      "session_id": "session_u2mmusa6l",
+      "farmer_id": "farmer_default_123",
+      "role": "assistant",
+      "content": "Hello Ramesh ji. For your wheat crop in Varanasi, the DBW-187 (Karan Vandana) variety is a good choice as it matures faster and has good disease resistance. It's best to sow between the second week of November and the first week of December. For your 3.5 bigha, use about 1.5 bags of Urea, 2 bags of DAP, and 1 bag of Muriate of Potash before sowing. After that, apply 1 bag of Urea at the first irrigation. With borewell irrigation, ensure the soil stays moist. Since you have good rainfall expected, hold off on irrigation for now. The MSP for wheat is Rs. 2275 per quintal. Expect a yield of around 18-22 quintals per bigha. This week, focus on preparing your field well for sowing.",
+      "content_en": "Hello Ramesh ji. For your wheat crop in Varanasi, the DBW-187 (Karan Vandana) variety is a good choice as it matures faster and has good disease resistance. It's best to sow between the second week of November and the first week of December. For your 3.5 bigha, use about 1.5 bags of Urea, 2 bags of DAP, and 1 bag of Muriate of Potash before sowing. After that, apply 1 bag of Urea at the first irrigation. With borewell irrigation, ensure the soil stays moist. Since you have good rainfall expected, hold off on irrigation for now. The MSP for wheat is Rs. 2275 per quintal. Expect a yield of around 18-22 quintals per bigha. This week, focus on preparing your field well for sowing.",
+      "structured": "{\"variety\":\"DBW-187 (Karan Vandana)\",\"sowing_window\":\"Mid-November to Early December\",\"fertiliser\":\"2 bags DAP, 1.5 bags Urea, 1 bag Muriate of Potash at sowing; 1 bag Urea at first irrigation per 3.5 bigha\",\"msp_price\":\"Rs. 2275 per quintal\",\"yield_estimate\":\"18-22 quintals per bigha\",\"irrigation_advice\":\"Irrigate when soil moisture drops below 0.3 m³/m³ and ET0 is high, typically every 15-20 days with borewell. However, given the current soil moisture and forecast rain, delay irrigation.\",\"type\":\"crop_advisory\",\"data_sources\":[\"ICAR Varieties\",\"MSP 2024-25\",\"Open-Meteo\"]}",
+      "agents_used": "[\"crop_advisory\"]",
+      "latency_ms": 4217
+    },
+    {
+      "message_id": "msg_z7jnjx5fm",
+      "created_at": "2026-06-28T04:51:22.143Z",
+      "session_id": "session_4tie8yxhw",
+      "farmer_id": "farmer_default_123",
+      "role": "farmer",
+      "content": "Sowing advice",
+      "content_en": "Sowing advice"
+    },
+    {
+      "message_id": "msg_ij66kt994",
+      "created_at": "2026-06-28T04:51:23.331Z",
+      "session_id": "session_4tie8yxhw",
+      "farmer_id": "farmer_default_123",
+      "role": "farmer",
+      "content": "Sowing advice",
+      "content_en": "Sowing advice"
+    },
+    {
+      "message_id": "msg_zh93367rj",
+      "created_at": "2026-06-28T04:51:28.314Z",
+      "session_id": "session_4tie8yxhw",
+      "farmer_id": "farmer_default_123",
+      "role": "farmer",
+      "content": "Weather forecast",
+      "content_en": "Weather forecast"
+    },
+    {
+      "message_id": "msg_xh3nsif7w",
+      "created_at": "2026-06-28T04:51:29.618Z",
+      "session_id": "session_4tie8yxhw",
+      "farmer_id": "farmer_default_123",
+      "role": "farmer",
+      "content": "Weather forecast",
+      "content_en": "Weather forecast"
+    },
+    {
+      "message_id": "msg_u9noz39nw",
+      "created_at": "2026-06-28T04:54:34.521Z",
+      "session_id": "session_h38usmrao",
+      "farmer_id": "farmer_default_123",
+      "role": "farmer",
+      "content": "Sowing advice",
+      "content_en": "Sowing advice"
+    },
+    {
+      "message_id": "msg_orard9tqc",
+      "created_at": "2026-06-28T04:54:35.670Z",
+      "session_id": "session_h38usmrao",
+      "farmer_id": "farmer_default_123",
+      "role": "farmer",
+      "content": "Sowing advice",
+      "content_en": "Sowing advice"
+    },
+    {
+      "message_id": "msg_jerwahd2k",
+      "created_at": "2026-06-28T04:56:06.029Z",
+      "session_id": "test_session_123",
+      "farmer_id": "farmer_default_123",
+      "role": "farmer",
+      "content": "Will it rain this week, and is it a good time to sow wheat?",
+      "content_en": "Will it rain this week, and is it a good time to sow wheat?"
+    },
+    {
+      "message_id": "msg_urawonrlq",
+      "created_at": "2026-06-28T04:56:09.578Z",
+      "session_id": "test_session_123",
+      "farmer_id": "farmer_default_123",
+      "role": "assistant",
+      "content": "Sorry, I encountered an issue pulling the latest crop database records. General advice for wheat: sow between Nov 10-25 using HD-3086 variety, apply 2 bags of DAP per bigha. Please check your soil moisture before watering.\n\nWeather Update: I am unable to reach the weather forecast service right now. Please check your local forecast. Generally, keep wheat crops irrigated if temperatures are rising.",
+      "content_en": "Sorry, I encountered an issue pulling the latest crop database records. General advice for wheat: sow between Nov 10-25 using HD-3086 variety, apply 2 bags of DAP per bigha. Please check your soil moisture before watering.\n\nWeather Update: I am unable to reach the weather forecast service right now. Please check your local forecast. Generally, keep wheat crops irrigated if temperatures are rising.",
+      "structured": "{\"type\":\"combined_advisory\",\"crop_variety\":\"HD-3086\",\"sowing_window\":\"Nov 10 - Nov 25\",\"fertiliser\":\"2 bags DAP per bigha\",\"msp_price\":\"Rs. 2275 per quintal\",\"weather_key_risk\":\"Unknown due to connection timeout\",\"weather_recommended_action\":\"Monitor skies and local announcements\",\"data_sources\":[\"Fallback Static Database\",\"Static Fallback\"]}",
+      "agents_used": "[\"crop_advisory\",\"weather\"]",
+      "latency_ms": 3550
+    },
+    {
+      "message_id": "msg_9yzfa7r1a",
+      "created_at": "2026-06-28T04:57:26.316Z",
+      "session_id": "session_8phpsvayp",
+      "farmer_id": "farmer_default_123",
+      "role": "farmer",
+      "content": "Sowing advice",
+      "content_en": "Sowing advice"
+    },
+    {
+      "message_id": "msg_25aj1765r",
+      "created_at": "2026-06-28T04:57:27.227Z",
+      "session_id": "session_8phpsvayp",
+      "farmer_id": "farmer_default_123",
+      "role": "farmer",
+      "content": "Sowing advice",
+      "content_en": "Sowing advice"
+    },
+    {
+      "message_id": "msg_mif568hxx",
+      "created_at": "2026-06-28T04:57:29.538Z",
+      "session_id": "session_8phpsvayp",
+      "farmer_id": "farmer_default_123",
+      "role": "farmer",
+      "content": "Weather forecast",
+      "content_en": "Weather forecast"
+    },
+    {
+      "message_id": "msg_kmfdgj1bq",
+      "created_at": "2026-06-28T04:59:00.321Z",
+      "session_id": "test_session_123",
+      "farmer_id": "farmer_default_123",
+      "role": "farmer",
+      "content": "Will it rain this week, and is it a good time to sow wheat?",
+      "content_en": "Will it rain this week, and is it a good time to sow wheat?"
+    },
+    {
+      "message_id": "msg_s1bwzgl58",
+      "created_at": "2026-06-28T04:59:03.658Z",
+      "session_id": "test_session_123",
+      "farmer_id": "farmer_default_123",
+      "role": "assistant",
+      "content": "Sorry, I encountered an issue pulling the latest crop database records. General advice for wheat: sow between Nov 10-25 using HD-3086 variety, apply 2 bags of DAP per bigha. Please check your soil moisture before watering.\n\nWeather Update: I am unable to reach the weather forecast service right now. Please check your local forecast. Generally, keep wheat crops irrigated if temperatures are rising.",
+      "content_en": "Sorry, I encountered an issue pulling the latest crop database records. General advice for wheat: sow between Nov 10-25 using HD-3086 variety, apply 2 bags of DAP per bigha. Please check your soil moisture before watering.\n\nWeather Update: I am unable to reach the weather forecast service right now. Please check your local forecast. Generally, keep wheat crops irrigated if temperatures are rising.",
+      "structured": "{\"type\":\"combined_advisory\",\"crop_variety\":\"HD-3086\",\"sowing_window\":\"Nov 10 - Nov 25\",\"fertiliser\":\"2 bags DAP per bigha\",\"msp_price\":\"Rs. 2275 per quintal\",\"weather_key_risk\":\"Unknown due to connection timeout\",\"weather_recommended_action\":\"Monitor skies and local announcements\",\"data_sources\":[\"Fallback Static Database\",\"Static Fallback\"]}",
+      "agents_used": "[\"crop_advisory\",\"weather\"]",
+      "latency_ms": 3338
+    },
+    {
+      "message_id": "msg_jq2yh27ss",
+      "created_at": "2026-06-28T05:00:15.589Z",
+      "session_id": "session_mr09ypwsm",
+      "farmer_id": "farmer_default_123",
+      "role": "farmer",
+      "content": "Sowing advice",
+      "content_en": "Sowing advice"
+    },
+    {
+      "message_id": "msg_1iaxxgxch",
+      "created_at": "2026-06-28T05:00:16.464Z",
+      "session_id": "session_mr09ypwsm",
+      "farmer_id": "farmer_default_123",
+      "role": "assistant",
+      "content": "Sorry, I encountered an issue pulling the latest crop database records. General advice for wheat: sow between Nov 10-25 using HD-3086 variety, apply 2 bags of DAP per bigha. Please check your soil moisture before watering.",
+      "content_en": "Sorry, I encountered an issue pulling the latest crop database records. General advice for wheat: sow between Nov 10-25 using HD-3086 variety, apply 2 bags of DAP per bigha. Please check your soil moisture before watering.",
+      "structured": "{\"type\":\"crop_advisory\",\"variety\":\"HD-3086\",\"sowing_window\":\"Nov 10 - Nov 25\",\"fertiliser\":\"2 bags DAP per bigha\",\"msp_price\":\"Rs. 2275 per quintal\",\"yield_estimate\":\"15-18 quintals per bigha\",\"irrigation_advice\":\"Irrigate every 20-25 days\",\"data_sources\":[\"Fallback Static Database\"]}",
+      "agents_used": "[\"crop_advisory\"]",
+      "latency_ms": 876
+    },
+    {
+      "message_id": "msg_napfql199",
+      "created_at": "2026-06-28T05:00:27.376Z",
+      "session_id": "session_mr09ypwsm",
+      "farmer_id": "farmer_default_123",
+      "role": "farmer",
+      "content": "Check the weather",
+      "content_en": "Check the weather"
+    },
+    {
+      "message_id": "msg_axb4tt0pk",
+      "created_at": "2026-06-28T05:00:31.402Z",
+      "session_id": "session_mr09ypwsm",
+      "farmer_id": "farmer_default_123",
+      "role": "assistant",
+      "content": "Sorry, I encountered an issue pulling the latest crop database records. General advice for wheat: sow between Nov 10-25 using HD-3086 variety, apply 2 bags of DAP per bigha. Please check your soil moisture before watering.",
+      "content_en": "Sorry, I encountered an issue pulling the latest crop database records. General advice for wheat: sow between Nov 10-25 using HD-3086 variety, apply 2 bags of DAP per bigha. Please check your soil moisture before watering.",
+      "structured": "{\"type\":\"crop_advisory\",\"variety\":\"HD-3086\",\"sowing_window\":\"Nov 10 - Nov 25\",\"fertiliser\":\"2 bags DAP per bigha\",\"msp_price\":\"Rs. 2275 per quintal\",\"yield_estimate\":\"15-18 quintals per bigha\",\"irrigation_advice\":\"Irrigate every 20-25 days\",\"data_sources\":[\"Fallback Static Database\"]}",
+      "agents_used": "[\"crop_advisory\"]",
+      "latency_ms": 4027
+    },
+    {
+      "message_id": "msg_7wy8ybzvq",
+      "created_at": "2026-06-28T05:01:37.217Z",
+      "session_id": "session_ow39q6z87",
+      "farmer_id": "farmer_default_123",
+      "role": "farmer",
+      "content": "Sowing advice",
+      "content_en": "Sowing advice"
+    },
+    {
+      "message_id": "msg_pz8s3plhv",
+      "created_at": "2026-06-28T05:01:38.745Z",
+      "session_id": "session_ow39q6z87",
+      "farmer_id": "farmer_default_123",
+      "role": "assistant",
+      "content": "Sorry, I encountered an issue pulling the latest crop database records. General advice for wheat: sow between Nov 10-25 using HD-3086 variety, apply 2 bags of DAP per bigha. Please check your soil moisture before watering.",
+      "content_en": "Sorry, I encountered an issue pulling the latest crop database records. General advice for wheat: sow between Nov 10-25 using HD-3086 variety, apply 2 bags of DAP per bigha. Please check your soil moisture before watering.",
+      "structured": "{\"type\":\"crop_advisory\",\"variety\":\"HD-3086\",\"sowing_window\":\"Nov 10 - Nov 25\",\"fertiliser\":\"2 bags DAP per bigha\",\"msp_price\":\"Rs. 2275 per quintal\",\"yield_estimate\":\"15-18 quintals per bigha\",\"irrigation_advice\":\"Irrigate every 20-25 days\",\"data_sources\":[\"Fallback Static Database\"]}",
+      "agents_used": "[\"crop_advisory\"]",
+      "latency_ms": 1530
+    }
+  ],
+  "weather_alerts": [
+    {
+      "alert_id": "alert_83z1i6b45",
+      "created_at": "2026-06-27T15:39:10.890Z",
+      "seen": 1,
+      "farmer_id": "farmer_default_123",
+      "alert_type": "Heatwave",
+      "severity": "EXTREME",
+      "message": "An Extreme Heatwave is expected today and through Sunday in Varanasi with temperatures potentially exceeding 45°C. To protect your wheat crop in vegetative growth, ensure deep and consistent irrigation to mitigate heat stress. Immediate action is advised.",
+      "valid_until": "2026-06-28T15:39:10.890Z"
+    },
+    {
+      "alert_id": "alert_l0gxcuv6l",
+      "created_at": "2026-06-27T15:39:38.953Z",
+      "seen": 1,
+      "farmer_id": "farmer_default_123",
+      "alert_type": "Heatwave",
+      "severity": "EXTREME",
+      "message": "An Extreme Heatwave is expected in Varanasi TODAY, Friday. Provide light and frequent irrigation to your wheat crop to help it withstand the severe heat stress during its vegetative growth stage. Act immediately to protect your fields.",
+      "valid_until": "2026-06-28T15:39:38.953Z"
+    },
+    {
+      "alert_id": "alert_7i6fppj5p",
+      "created_at": "2026-06-28T01:21:54.851Z",
+      "seen": 1,
+      "farmer_id": "farmer_default_123",
+      "alert_type": "Heatwave",
+      "severity": "EXTREME",
+      "message": "An extreme heatwave is expected in Varanasi TODAY and for the next few days, with temperatures possibly exceeding 45°C. It is crucial to provide light and frequent irrigation immediately to mitigate heat stress on your wheat crop during its vegetative growth stage.",
+      "valid_until": "2026-06-29T01:21:54.851Z"
+    },
+    {
+      "alert_id": "alert_646c4qa2y",
+      "created_at": "2026-06-28T01:47:26.677Z",
+      "seen": 1,
+      "farmer_id": "farmer_default_123",
+      "alert_type": "Heatwave",
+      "severity": "EXTREME",
+      "message": "Extreme heatwave conditions are expected starting today and continuing for the next two days. Protect your wheat crop by ensuring adequate irrigation and mulching to conserve soil moisture.",
+      "valid_until": "2026-06-29T01:47:26.677Z"
+    },
+    {
+      "alert_id": "alert_akk1at1hx",
+      "created_at": "2026-06-28T04:54:21.815Z",
+      "seen": 1,
+      "farmer_id": "farmer_default_123",
+      "alert_type": "Heatwave",
+      "severity": "EXTREME",
+      "message": "EXTREME HEATWAVE WARNING for Varanasi: Temperatures will exceed 45°C through Tuesday. Protect your wheat crop from scorching by ensuring adequate irrigation and providing shade if possible.",
+      "valid_until": "2026-06-29T04:54:21.815Z"
+    }
+  ],
+  "api_cache": {}
+}
