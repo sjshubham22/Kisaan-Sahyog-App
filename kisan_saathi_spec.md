@@ -1,4 +1,4 @@
-# Kisan Saathi — Farmer Advisory System
+# Kisan Sahyog — Farmer Advisory System
 ## Technical Specification for Development
 
 > **Version:** 1.0  
